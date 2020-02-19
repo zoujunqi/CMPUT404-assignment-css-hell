@@ -7,7 +7,7 @@
 ** Collaboration
    - You may consult with others but the submission should be your
      own source code.
-   - Collaboration but be documents in the README.md file
+   - Collaboration but document it in the README.md file
    - Any external source code must be referenced and documented in
      the README.md file
 
@@ -47,9 +47,7 @@
    Emulate the 2nd and 3rd design from this comic: 
    http://theoatmeal.com/comics/design_hell
 
-   But instead make a 1 webpage about each assignment partner (1 page
-   if you are doing this solo and 2 webpages that advertises you to
-   employers.
+   Make 1 good page that you could show an employer. Make 1 bad papge that you would show your friends because it is funny.
 
    Include at least 3 sections:
 
@@ -64,6 +62,8 @@
    Make 1 ugly CSS and 1 good CSS just like the design_hell comic.
 
    You should make a page good enough you'd actually use it as your homepage.
+
+   If you do not want to disclose personal information then you have to make the missing information and you do not have to personally identify yourself. If this is too hard then go on Wikipedia and find a famous figure you like and make a webpage for them.
 
 *** Requirements
 
