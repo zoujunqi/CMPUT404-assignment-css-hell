@@ -23,7 +23,7 @@ it matches the old book like color of background.
 I also change the margin of the page so more content can be displayed.
 Image is themed and image captions are added.
 
-
+Color reference:
 https://www.color-name.com/old-paper.color
 
 License/Copyright
