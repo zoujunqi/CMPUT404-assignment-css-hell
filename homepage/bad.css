@@ -1,0 +1,37 @@
+body {
+  font-family: papyrus,"Curlz MT",sans;
+  background-color: chartreuse;
+  color: indigo;
+}
+
+h1, h2{
+  background-color: red;
+  color: white;
+}
+
+h1 {
+  color: aqua;
+  text-align: right;
+  font-size: 30px;
+}
+
+div.bar {
+  border-color: deeppink;
+  border-radius: 40px;
+  border-style: solid;
+  text-align: center;
+  width: 800px;
+  margin-top: 60px;
+  font-size: 50px;
+}
+
+img {
+  float: left;
+  width: 500px;
+}
+
+div.content {
+  margin-left: 500px;
+  font-size: 10px;
+  color: darkorange;
+}

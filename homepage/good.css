@@ -1,0 +1,36 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: white;
+  color: #222;
+}
+
+h1, h2{
+  background-color: #f5f0f0;
+  color: #F90B6D;
+}
+
+h1 {
+  text-align: center;
+  font-size: 39px;
+}
+
+div.bar {
+  border-color: deeppink;
+  border-radius: 1px;
+  border-style: solid;
+  text-align: center;
+  width: 280px;
+  margin-top: 60px;
+}
+
+img {
+  border-radius: 10px;
+  float: left;
+  width: 280px;
+  box-shadow: #2b2b44;
+}
+
+div.content {
+  margin-left: 350px;
+  font-size: 17px;
+}
